@@ -1,0 +1,9 @@
+# Lower bounds required by the code.  The study runs used Python 3.13.0 with the
+# exact versions in requirements-lock.txt.
+numpy>=1.24
+pandas>=2.0
+pyarrow>=14
+scipy>=1.10
+matplotlib>=3.7
+ortools>=9.8
+pytest>=7

@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "DAIP: dependency-aware intervention planning for aircraft turnaround recovery"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-13"
+authors:
+  - family-names: Nantogma
+    given-names: Sulemana
+    affiliation: "College of Information Engineering, Yango University"
+    email: nantogmas@ygu.edu.cn
+  - family-names: Ran
+    given-names: Weizhi
+    affiliation: "School of Computer Science and Engineering, University of Electronic Science and Technology of China"
+  - family-names: Zhang
+    given-names: Shangyan
+    affiliation: "School of Computer Science and Engineering, University of Electronic Science and Technology of China"
+keywords:
+  - aircraft turnaround
+  - disruption recovery
+  - decision support
+  - dependency graph
+  - knowledge representation
+  - incremental computation
+preferred-citation:
+  type: article
+  title: "Dependency-aware intervention planning for coordinated aircraft turnaround recovery using explicit delay knowledge"
+  authors:
+    - family-names: Nantogma
+      given-names: Sulemana
+    - family-names: Ran
+      given-names: Weizhi
+    - family-names: Zhang
+      given-names: Shangyan
+  journal: "Advanced Engineering Informatics"
+  status: submitted
+  year: 2026
